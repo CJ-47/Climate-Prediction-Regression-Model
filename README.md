@@ -4,7 +4,7 @@ Scikit Learn is an open-source Python library that implements a range of machine
 algorithms using a unified interface.
 
 It features various classification, regression and clustering algorithms including support vector 
-machines, random forests, gradient boosting, kmeans, etc.
+machines, random forests, gradient boosting, k-means, etc.
 
 It is built on the top of NumPy, SciPy, and matplotlib . 
 
