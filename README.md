@@ -1,4 +1,4 @@
-# Climate-Prediction-Regression-Model
+# Temperature-Prediction-Regression-Model
 In this project , using the available datasets of temperature and Green House Gas emission for individual country, we try to design a Linear Regression Model and test it's reliability and using the model , predict future temperature of a region .It uses Linear Regression in scikit-learn module in python .
 Scikit Learn is an open-source Python library that implements a range of machine learning, preprocessing, cross-validation, and visualization 
 algorithms using a unified interface.
